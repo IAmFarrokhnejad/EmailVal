@@ -14,6 +14,7 @@ import (
 	"time"
 )
 
+//Author: Morteza Farrokhnejad
 type DomainInfo struct {
 	Domain      string
 	HasMX       bool
